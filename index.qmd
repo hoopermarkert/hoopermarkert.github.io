@@ -1,0 +1,32 @@
+::: {.columns}
+
+::: {.column width="32%"}
+
+![](images/Headshot_2026.jpg){width=220px}
+
+:::
+
+::: {.column width="68%"}
+
+# Hooper Markert
+
+Master's Degree Candidate in Economics \
+**Washington University in St. Louis**
+
+I am interested in **development economics, applied microeconomics, and the economics of education**. My current research interests center on the role of high-quality teacher reflection spaces towards creating a culture of learning in a locality.
+
+[CV](files/HooperMarkert_CV_2026_Nov.pdf) · [Email](mailto:markert@wustl.edu) · [GitHub](https://github.com/hoopermarkert)
+
+:::
+
+:::
+
+## Research and Professional Experience
+
+Research Assistant \
+**Center for Research in Education for Development**
+
+Research the processes that inform the construction of successful reflection spaces that foster collaborative,
+intentional, and self-reflective teachers trained in the [*Learning to Learn*](https://ltl.researchfordevelopment.org) program.
+
+

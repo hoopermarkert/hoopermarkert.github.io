@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Hooper Markert"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+    right:
+      - href: files/HooperMarkert_CV_2026_Nov.pdf
+        text: CV
+      - href: https://github.com/hoopermarkert
+        text: GitHub
+  page-footer:
+    left: "Hooper Markert"
+    right: "Last updated November 2026"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
